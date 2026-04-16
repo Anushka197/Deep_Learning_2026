@@ -1,5 +1,9 @@
 # Object Detection Lab — From R-CNN to YOLO
 
+> **Course:** IT549 – Deep Learning  
+> **Name:** Anushka Prajapati  
+> **Student ID:** 202301224  
+
 ## Introduction
 In this lab, I explored how object detection methods have evolved over time. The main focus was to understand how older techniques worked, what their limitations were, and how newer models improved both speed and performance.
 
